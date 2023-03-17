@@ -2,7 +2,7 @@
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/qeYKKviUJA8DXtfq8KezJ-lOi6Hdpcz3P2VLoyp2PjWQB_yoMneVlWOGRT-v8lpAWIQ=s180",
 		"appName": "فاتورة - نظام فواتير متكامل",
-		"appDescription": "إنشاء فواتير وعروض سعر وحسابات بسهوله",
+		"appDescription": "نظام محاسبي في هاتفك",
 		"url": "https://play.google.com/store/apps/details?id=com.zakaryamasood.billingmaker"
 	},
 	{
@@ -13,7 +13,7 @@
 	},{
 		"appIcon": "https://play-lh.googleusercontent.com/uRzwy675xg1dpKcf_PClIh8lZYniDh77GeJtV8fXymYdk7dUTJzwYP057zCTp_9sYyk=s180",
 		"appName": "ادوات شبكة واي فاي",
-		"appDescription": "أكثر من 20 اداة للتحكم الاحترافي بالشبكة",
+		"appDescription": "20 اداة للتحكم الاحترافي بالشبكة",
 		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.wifitools"
 	},{
 		"appIcon": "https://play-lh.googleusercontent.com/xqGbn41IEWZMVmUHF9x23T-VS6Ika0O2TLjMqdMPx0mVyPdsaFNeoXl_6LQBf1i9UXg=s180",
@@ -35,5 +35,10 @@
 		"appName": "تصميم مقدمة فيديو",
 		"appDescription": "اصنع بداية قوية ب موشن احترافي",
 		"url": "https://play.google.com/store/apps/details?id=com.alimahmooddev.intromakerpro"
+	},{
+		"appIcon": "https://play-lh.googleusercontent.com/V0XSZ8Brt3uF62YwDx_Mn8hOSuEjks2u5bEuGsdrG3Kz4Y6mreIXFuRuoDLgi_GJKQ=s180",
+		"appName": "Reface Funny",
+		"appDescription": "إنشاء مقاطع الفيديو المضحكة",
+		"url": "https://play.google.com/store/apps/details?id=com.alimahmooddev.addfacetovideo"
 	}
 ]
