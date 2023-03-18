@@ -50,7 +50,7 @@
 		"url": "https://play.google.com/store/apps/details?id=com.alimahmooddev.logomakerforff"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/ZIh1uwkcIF4gNp05c01QI7miFptE2qyAW0FIkF6eWtUzd5Zc0mD7Aw6aJnmeRAf8TEej=s180",
+		"appIcon": "https://play-lh.googleusercontent.com/-FsoZoSdT2JVg23TqulVB7FimqnduOPOSvPwQwPiOVxAg_nGxHNszwH7gSfef12apPU=s180",
 		"appName": "Zvido - Short Video Status Maker",
 		"appDescription": "Make your own video amazing",
 		"url": "https://play.google.com/store/apps/details?id=com.alwarddave.zvidemaker"
@@ -58,6 +58,11 @@
 		"appIcon": "https://play-lh.googleusercontent.com/V0XSZ8Brt3uF62YwDx_Mn8hOSuEjks2u5bEuGsdrG3Kz4Y6mreIXFuRuoDLgi_GJKQ=s180",
 		"appName": "Reface Funny",
 		"appDescription": "Ai face swap videos",
-		"url": "https://play.google.com/store/apps/details?id=com.alimahmooddev.addfacetovideo"
+		"url": "https://play.google.com/store/apps/details?id=com.samai.intromakervideo"
+	},{
+		"appIcon": "https://play-lh.googleusercontent.com/FZ6upLbA4M1Cq1ebk4SADdcVE3GYQhm7m5RUXviA-CnP72dXqqQg3x2bf_3xFdAA7A=s180",
+		"appName": "Recover Deleted Contacts",
+		"appDescription": "when the phone is lost or deleted",
+		"url": "https://play.google.com/store/apps/details?id=com.abdulbasetapps.recovercontacts"
 	}
 ]
