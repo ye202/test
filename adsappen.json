@@ -64,5 +64,10 @@
 		"appName": "Recover Deleted Contacts",
 		"appDescription": "when the phone is lost or deleted",
 		"url": "https://play.google.com/store/apps/details?id=com.abdulbasetapps.recovercontacts"
+	},{
+		"appIcon": "https://play-lh.googleusercontent.com/WXNpLGyE01qpsf403fkLifG4noI0Jg-6UFUssP5Hnei_HAxjKS-f8KuyXlA_m8rnKrQ=s180",
+		"appName": "Story Saver - Stories and Status",
+		"appDescription": "The Best For Facebook",
+		"url": "https://play.google.com/store/apps/details?id=com.samai.fbstorysave"
 	}
 ]
