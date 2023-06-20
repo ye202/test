@@ -74,5 +74,15 @@
 		"appName": "All Games Offline - all in one",
 		"appDescription": "Play All your games in one ",
 		"url": "https://play.google.com/store/apps/details?id=com.mosahdidi.allinonegameofflinegames"
+	},{
+		"appIcon": "https://play-lh.googleusercontent.com/x97ggBwMGWQMhRW66lAht-2lRKo3N037hJHg3xXhk1D94NowMWLBsaKLaxEhoj-91a8=s180",
+		"appName": "Time Warp Scan Face Scanner",
+		"appDescription": "Take funny videos and pictures",
+		"url": "https://play.google.com/store/apps/details?id=com.alabididev.timewarpscanapp"
+	},{
+		"appIcon": "https://play-lh.googleusercontent.com/_8uqOtcud090HA5_KKVO3wmAsach3r2qJyI1nfRPnJJ6NPEN07qGzSglyMvJVHqmPQ=s180",
+		"appName": "Fingerprint Animation 3D",
+		"appDescription": "And live wallpaper on lock screen",
+		"url": "https://play.google.com/store/apps/details?id=com.alabididev.fingerprintanimation3d"
 	}
 ]
