@@ -84,5 +84,15 @@
 		"appName": "Fingerprint Animation 3D",
 		"appDescription": "And live wallpaper on lock screen",
 		"url": "https://play.google.com/store/apps/details?id=com.alabididev.fingerprintanimation3d"
+	},{
+		"appIcon": "https://play-lh.googleusercontent.com/yxTi1XoAaVNvLP8hEz_-GoYO0GETHj6PM_Bc4rf2oblNNh1t_Qii_2F00TMToRNPOUM=s180",
+		"appName": "Caricature Maker Cartoon Photo",
+		"appDescription": "Transform your photo into caricature",
+		"url": "https://play.google.com/store/apps/details?id=com.samai.caricaturemaker"
+	},{
+		"appIcon": "https://play-lh.googleusercontent.com/cDXeI1ZH3nMtVSbCcdUA49eqLOVBObWVqeJr78ip5lW9ogDl2xB2wMeHtrlaLts5gA=s180",
+		"appName": "Animated Text Maker Whatsapp",
+		"appDescription": "Free text stickers designer",
+		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.animatedstickertextmaker"
 	}
 ]
