@@ -80,5 +80,35 @@
 		"appName": "Downloader For Threads",
 		"appDescription": "محمل الصور والفيديو من ثريدز",
 		"url": "https://play.google.com/store/apps/details?id=com.alabididev.threadfordownloader"
+	},{
+		"appIcon": "https://play-lh.googleusercontent.com/c6mbZphJHxuYatrdHB_mL3y3UyCr_3OoX31phVOlHxxuIJDiF82yO7yu8saTpv2dwp5B=s180",
+		"appName": "رسوم متحركة عند شحن الهاتف",
+		"appDescription": "شكل رهيب ولمسه ابداعية",
+		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.charginganimation"
+	},{
+		"appIcon": "https://play-lh.googleusercontent.com/0oGNt5SYxmKGaa7qQ-jrlXf6uT5Zv5A5aD0XgAUCO-Wz0ua78sVhbIvU0v_5M5KfsrU=s180",
+		"appName": "تحميل قصص وريلز من فيسبوك",
+		"appDescription": "افضل واسرع محمل من فيس بوك",
+		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.fbvideostorysave"
+	},{
+		"appIcon": "https://play-lh.googleusercontent.com/6UGIRKZiW557uZSLAzyxN3rRCjisruY8TK7zInV1E4S3I-AlKekdD5r_qjalQwDZxMg=s180",
+		"appName": "بصمة الوجه لفتح قفل الشاشة",
+		"appDescription": "حماية هاتفك ببصمة الوجة",
+		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.faceidlockscreen"
+	},{
+		"appIcon": "https://play-lh.googleusercontent.com/DzpdRn5-Ecpy_PU2m7mLo9d61e-KC9OCriobCcbQB0NTgPsCyymsThCm0KQpm-X6hQ=s180",
+		"appName": "تسجيل فيديو في الخلفية مخفي",
+		"appDescription": "يمكنك التصوير بسريه",
+		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.silentvideorecorder"
+	},{
+		"appIcon": "https://play-lh.googleusercontent.com/F1dapZ6t_fz7-lCy15OM78HFVwZ65x4AyH35UHrEsGvQP8C90rRGiXEubE77ldbC_luJ=s180",
+		"appName": "كاميرا حل مسائل الرياضيات",
+		"appDescription": "حل مباشر مع الخطوات",
+		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.mathcameracalculator"
+	},{
+		"appIcon": "https://play-lh.googleusercontent.com/k8E_bv5iuOy7Bv21kB0WXSz431QPTReaNoTnsuAMaPGY-Z_PCr8qNVocrIX6aP9Sg2Q=s180",
+		"appName": "ارقام اجنبيه لاستلام كود التحقق",
+		"appDescription": "افضل تطبيق ارقام اجنبية مجاني",
+		"url": "https://play.google.com/store/apps/details?id=com.alabididev.tempnumbersms"
 	}
 ]
