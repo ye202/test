@@ -6,30 +6,10 @@
 		"url": "https://play.google.com/store/apps/details?id=com.zakaryamasood.billingmaker"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/vopBXsx7FicW2w9NgQ9EiHQZAvHg1PgjlElSfTdKEd_TcZTQeY6pf_wuYSOWkIiD1ktw=s180",
-		"appName": "تشفير الرسائل",
-		"appDescription": "نص مختلف مخفي عن الظاهر",
-		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.hiddenmessage"
-	},{
-		"appIcon": "https://play-lh.googleusercontent.com/uRzwy675xg1dpKcf_PClIh8lZYniDh77GeJtV8fXymYdk7dUTJzwYP057zCTp_9sYyk=s180",
-		"appName": "ادوات شبكة واي فاي",
-		"appDescription": "20 اداة للتحكم الاحترافي بالشبكة",
-		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.wifitools"
-	},{
 		"appIcon": "https://play-lh.googleusercontent.com/xqGbn41IEWZMVmUHF9x23T-VS6Ika0O2TLjMqdMPx0mVyPdsaFNeoXl_6LQBf1i9UXg=s180",
 		"appName": "أرقام أجنبية أفتراضية",
 		"appDescription": "ارقام وايميلات لاستلام كود التفعيل",
 		"url": "https://play.google.com/store/apps/details?id=com.abdulbasetapps.tempnumbermessages"
-	},{
-		"appIcon": "https://play-lh.googleusercontent.com/6sX4QwzsLVKO5g6zh7pmDliGRTdvXlH6wGRhEHn6rKHb5cozw3RzvHeD6xccysVgALOY=s180",
-		"appName": "Chat Ai GPT",
-		"appDescription": "احصل على إجابات لأسئلتك بسرعة",
-		"url": "https://play.google.com/store/apps/details?id=com.abdulbasetapps.chatgptaismart"
-	},{
-		"appIcon": "https://play-lh.googleusercontent.com/RDpuumIAug5j-8YNJaDDMj8gQdP1BAZAvN_UTo6p5GpKfxCMjA3ImVL9dDVbUVHQULA=s180",
-		"appName": "مقالب مضحكة",
-		"appDescription": "50 مقلب مضحك ومحرج",
-		"url": "https://play.google.com/store/apps/details?id=com.abdulbasetapps.funnypranks"
 	},{
 		"appIcon": "https://play-lh.googleusercontent.com/-FsoZoSdT2JVg23TqulVB7FimqnduOPOSvPwQwPiOVxAg_nGxHNszwH7gSfef12apPU=s180",
 		"appName": "تصميم مقدمة فيديو",
@@ -40,11 +20,6 @@
 		"appName": "Reface Funny",
 		"appDescription": "إنشاء مقاطع الفيديو المضحكة",
 		"url": "https://play.google.com/store/apps/details?id=com.alimahmooddev.addfacetovideo"
-	},{
-		"appIcon": "https://play-lh.googleusercontent.com/FZ6upLbA4M1Cq1ebk4SADdcVE3GYQhm7m5RUXviA-CnP72dXqqQg3x2bf_3xFdAA7A=s180",
-		"appName": "استعادة جهات الاتصال المحذوفة",
-		"appDescription": "سواء عند فقدان الهاتف او الحذف ",
-		"url": "https://play.google.com/store/apps/details?id=com.abdulbasetapps.recovercontacts"
 	},{
 		"appIcon": "https://play-lh.googleusercontent.com/WXNpLGyE01qpsf403fkLifG4noI0Jg-6UFUssP5Hnei_HAxjKS-f8KuyXlA_m8rnKrQ=s180",
 		"appName": "تنزيل قصص و فيديوهات الفيسبوك",
@@ -100,11 +75,6 @@
 		"appName": "تسجيل فيديو في الخلفية مخفي",
 		"appDescription": "يمكنك التصوير بسريه",
 		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.silentvideorecorder"
-	},{
-		"appIcon": "https://play-lh.googleusercontent.com/F1dapZ6t_fz7-lCy15OM78HFVwZ65x4AyH35UHrEsGvQP8C90rRGiXEubE77ldbC_luJ=s180",
-		"appName": "كاميرا حل مسائل الرياضيات",
-		"appDescription": "حل مباشر مع الخطوات",
-		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.mathcameracalculator"
 	},{
 		"appIcon": "https://play-lh.googleusercontent.com/k8E_bv5iuOy7Bv21kB0WXSz431QPTReaNoTnsuAMaPGY-Z_PCr8qNVocrIX6aP9Sg2Q=s180",
 		"appName": "ارقام اجنبيه لاستلام كود التحقق",
