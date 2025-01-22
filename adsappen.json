@@ -1,30 +1,10 @@
 [
 	
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/vopBXsx7FicW2w9NgQ9EiHQZAvHg1PgjlElSfTdKEd_TcZTQeY6pf_wuYSOWkIiD1ktw=s180",
-		"appName": "Hide messages - hidden text",
-		"appDescription": "two texts, one visible and hidden",
-		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.hiddenmessage"
-	},{
-		"appIcon": "https://play-lh.googleusercontent.com/uRzwy675xg1dpKcf_PClIh8lZYniDh77GeJtV8fXymYdk7dUTJzwYP057zCTp_9sYyk=s180",
-		"appName": "Wifi tools",
-		"appDescription": "all you need in 1 App",
-		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.wifitools"
-	},{
 		"appIcon": "https://play-lh.googleusercontent.com/xqGbn41IEWZMVmUHF9x23T-VS6Ika0O2TLjMqdMPx0mVyPdsaFNeoXl_6LQBf1i9UXg=s180",
 		"appName": "Temp Number Receive Code",
 		"appDescription": "Free temporary numbers or Emails",
 		"url": "https://play.google.com/store/apps/details?id=com.abdulbasetapps.tempnumbermessages"
-	},{
-		"appIcon": "https://play-lh.googleusercontent.com/6sX4QwzsLVKO5g6zh7pmDliGRTdvXlH6wGRhEHn6rKHb5cozw3RzvHeD6xccysVgALOY=s180",
-		"appName": "Chat Ai GPT",
-		"appDescription": "find answers to your questions quickly",
-		"url": "https://play.google.com/store/apps/details?id=com.abdulbasetapps.chatgptaismart"
-	},{
-		"appIcon": "https://play-lh.googleusercontent.com/RDpuumIAug5j-8YNJaDDMj8gQdP1BAZAvN_UTo6p5GpKfxCMjA3ImVL9dDVbUVHQULA=s180",
-		"appName": "Funny pranks - joking friends",
-		"appDescription": "More than 50 funny pranks",
-		"url": "https://play.google.com/store/apps/details?id=com.abdulbasetapps.funnypranks"
 	},{
 		"appIcon": "https://play-lh.googleusercontent.com/jh8Vhw1UM5EkYPpDYgRxC_J810tIYkdmMh6ro4hzujRc7839lwTVwJEiZIFa59yJyfk=s180",
 		"appName": "Old Nokia Launcher",
@@ -43,12 +23,7 @@
 		"appDescription": "simplest ready intro maker",
 		"url": "https://play.google.com/store/apps/details?id=com.alimahmooddev.intromakerpro"
 	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/u_7f2KKC-efFQFuJvAk1O7ptvIpQ81DyqHHhuqBBvPOjuoNHmlyYRM2WtXAilP9vq6E=s180",
-		"appName": "Logo Maker For Free",
-		"appDescription": "Designed for gamer",
-		"url": "https://play.google.com/store/apps/details?id=com.alimahmooddev.logomakerforff"
-	},
+	
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/-FsoZoSdT2JVg23TqulVB7FimqnduOPOSvPwQwPiOVxAg_nGxHNszwH7gSfef12apPU=s180",
 		"appName": "Zvido - Short Video Status Maker",
@@ -59,11 +34,6 @@
 		"appName": "Reface Funny",
 		"appDescription": "Ai face swap videos",
 		"url": "https://play.google.com/store/apps/details?id=com.samai.intromakervideo"
-	},{
-		"appIcon": "https://play-lh.googleusercontent.com/FZ6upLbA4M1Cq1ebk4SADdcVE3GYQhm7m5RUXviA-CnP72dXqqQg3x2bf_3xFdAA7A=s180",
-		"appName": "Recover Deleted Contacts",
-		"appDescription": "when the phone is lost or deleted",
-		"url": "https://play.google.com/store/apps/details?id=com.abdulbasetapps.recovercontacts"
 	},{
 		"appIcon": "https://play-lh.googleusercontent.com/WXNpLGyE01qpsf403fkLifG4noI0Jg-6UFUssP5Hnei_HAxjKS-f8KuyXlA_m8rnKrQ=s180",
 		"appName": "Story Saver - Stories and Status",
@@ -119,11 +89,6 @@
 		"appName": "Silent camera video recorder",
 		"appDescription": "hidden camera video recorder",
 		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.silentvideorecorder"
-	},{
-		"appIcon": "https://play-lh.googleusercontent.com/F1dapZ6t_fz7-lCy15OM78HFVwZ65x4AyH35UHrEsGvQP8C90rRGiXEubE77ldbC_luJ=s180",
-		"appName": "Math Solver Camera",
-		"appDescription": "solves all your math problems",
-		"url": "https://play.google.com/store/apps/details?id=com.husseinalsmsam.mathcameracalculator"
 	},{
 		"appIcon": "https://play-lh.googleusercontent.com/dNFK6tcq-O38vtI7qsTZmB7fFleIugAOslzyJ3-xl3DGkCf4AIzu7-TDsUCMVTI8e8kj=s180",
 		"appName": "Intruder Catcher - Anti theft",
