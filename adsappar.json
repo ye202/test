@@ -98,6 +98,11 @@
 
 
 	,{
+		"appIcon": "https://play-lh.googleusercontent.com/Dx8i8dr57zqqr0kGBr1cRKjGbV_DaFnUyiLi25AV_Imh7wRyAFQhZ8bwM8NpEX6RLHAlfpskerQ4xeeMnkYM0ks=s180",
+		"appName": "ألعاب PS3 Games Center",
+		"appDescription": "🔥 مكتبة PS3 ضخمة",
+		"url": "https://play.google.com/store/apps/details?id=com.alabididev.pspgamescenter"
+	},{
   "appIcon": "https://play-lh.googleusercontent.com/M15M7SVr_B4CK-wsukdsmz_fCG1ViTMDDg2IpdcEYC6hW8Deubedh7sF8roEiTgguOW8uJUKlHZeBIBhVjs77z0=s180",
   "appName": "PS2 PS3 PSP Games Library",
   "appDescription": "🚀 لا تفوّت ألعاب PS3",
@@ -110,4 +115,3 @@
   "url": "https://play.google.com/store/apps/details?id=com.abomalk.pspps3games"
 }
 ] 
-
