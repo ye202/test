@@ -40,7 +40,18 @@
   "appName": "Games PS3",
   "appDescription": "🔥 Play Now",
   "url": "https://play.google.com/store/apps/details?id=com.abdulbasetapps.recovercontacts"
-}
+},
+{
+  "appIcon": "https://play-lh.googleusercontent.com/X2riALXD2fBtKTmp3N0aqiF-Yju08twvSnawM4wbShdVAjHRvN7SeSytZZUguxOyxVyu2UC3Bo4vX3O4WfAm=s180",
+  "appName": "Games PS3",
+  "appDescription": "🔥 Play Now",
+  "url": "https://play.google.com/store/apps/details?id=com.abdulbasetapps.recovercontacts"
+},{
+		"appIcon": "https://play-lh.googleusercontent.com/Dx8i8dr57zqqr0kGBr1cRKjGbV_DaFnUyiLi25AV_Imh7wRyAFQhZ8bwM8NpEX6RLHAlfpskerQ4xeeMnkYM0ks=s180",
+		"appName": "PSP PS3 Games Center",
+		"appDescription": "PSP • PS1 • PS2 • PS3 in one app",
+		"url": "https://play.google.com/store/apps/details?id=com.alabididev.pspgamescenter"
+	}
 ] 
 
 
